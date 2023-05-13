@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": " https://upload.wikimedia.org/wikipedia/commons/2/22/Turkish_Van_Cat.jpg",
+    "title": "Van Cat",
+    "Description": "Native Race"
+  },
+  {
+    "id": 2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ankara_Kedisi_%28Sedat.Sevin%C3%A7%29.jpg",
+    "title": "Ankara Cat",
+    "Description": "Native Race"
+  },
+  {
+    "id": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bengalkatze.jpg",
+    "title": "Leopard cat",
+    "Description": "Native Race"
+  },
+  {
+    "id": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lynx-canadensis.jpg",
+    "title": "Lynx",
+    "Description": "Native Race"
+  },
+  {
+    "id": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Caracl_%2801%29%2C_Paris%2C_d%C3%A9cembre_2013.jpg",
+    "title": "Caracal",
+    "Description": "Native Race"
+  },
+  {
+    "id": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rohrkatze-6218.jpg",
+    "title": "Reed Cat",
+    "Description": "Native Race"
+  },
+  {
+    "id": 7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Felis_silvestris_silvestris_Luc_Viatour.jpg",
+    "title": "Wild Cat",
+    "Description": "Native Race"
+  },
+  {
+    "id": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Catopuma_temminckii.jpg",
+    "title": "Asian Golden Cat",
+    "Description": "Native Race"
+  },
+  {
+    "id": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Cat_poster_1.jpg",
+    "title": "Home Cat",
+    "Description": "Native Race"
+  }
+]
