@@ -21,7 +21,12 @@ img {
   flex-direction: column;
   background-color: #e9d5ca;
 }
-
+button {
+  background-color: red;
+  width: 8rem;
+  height: 2rem;
+  border-radius: 9px;
+}
 h1 {
   margin: 15px;
   font-family: "Antic Slab", serif;
@@ -44,11 +49,6 @@ input::placeholder {
 }
 input:focus {
   outline: none;
-}
-
-h3 {
-  margin-top: 10px;
-  font-family: "Antic Slab", serif;
 }
 
 p {
